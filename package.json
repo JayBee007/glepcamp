@@ -1,0 +1,28 @@
+{
+  "name": "glepcamp",
+  "version": "0.0.1",
+  "description": "GlepCamp Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayBee007/glepcamp.git"
+  },
+  "keywords": [
+    "camp",
+    "campsites",
+    "nodejs"
+  ],
+  "author": "Jay Bee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayBee007/glepcamp/issues"
+  },
+  "homepage": "https://github.com/JayBee007/glepcamp#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
+  }
+}
